@@ -12,14 +12,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/dafiulh/vredeburg.git"
+		"url": "git+https://github.com/uiuxarghya/vredeburg-next.git"
 	},
-	"author": "Dafiul Haq",
+	"author": "Arghya Ghosh",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/dafiulh/vredeburg/issues"
+		"url": "https://github.com/uiuxarghya/vredeburg-next/issues"
 	},
-	"homepage": "https://github.com/dafiulh/vredeburg#readme",
+	"homepage": "https://github.com/uiuxarghya/vredeburg-next#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^0.11.1",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
