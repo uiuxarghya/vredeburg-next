@@ -1,7 +1,8 @@
 ---
-description: "Example of post without a title"
+title: No Image
+description: "Example of post without a cover image"
 date: 2020-04-20T18:30
-thumb: "windows-7.jpg"
+thumb: 
 tags: sample
 ---
 
